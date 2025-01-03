@@ -55,17 +55,9 @@ With 15+ years of experience in Information Technology, I specialize in server a
 - Custom security solutions
 
 ## 📫 Contact
-<p align="center">
-  <a href="mailto:atyinfosec@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/quinji/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/atyinfosec">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-atyinfosec@gmail.com-red?logo=gmail&logoColor=white)](mailto:atyinfosec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@quinji-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinji/)
+[![GitHub](https://img.shields.io/badge/GitHub-atyinfosec-black?logo=github&logoColor=white)](https://github.com/atyinfosec)
 
 ## 🤝 Why Choose Me?
 - 15+ years of hands-on experience
