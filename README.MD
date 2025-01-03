@@ -159,8 +159,9 @@ achievements = {
 ---
 
 <div align="center">
-> [!IMPORTANT]
-> *Available for security consultations, server administration, and development projects*
+
+[!IMPORTANT]
+*Available for security consultations, server administration, and development projects*
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Open%20for%20Projects-success)](mailto:atyinfosec@gmail.com)
 
