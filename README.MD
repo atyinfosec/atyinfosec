@@ -21,9 +21,9 @@ C --> D[Implementation]
 D --> E[Monitoring]
 E --> F[Continuous Improvement]
 F --> A
-style A fill:#f96,stroke:#333
-style C fill:#9cf,stroke:#333
-style E fill:#9f9,stroke:#333
+style A fill:#ff6600,stroke:#ffffff
+style C fill:#66ccff,stroke:#ffffff
+style E fill:#66ff66,stroke:#ffffff
 ```
 
 ## 🛡️ Core Expertise
