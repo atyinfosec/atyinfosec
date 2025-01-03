@@ -59,7 +59,7 @@ With 15+ years of experience in Information Technology, I specialize in server a
 [![Email](https://img.shields.io/badge/Email-atyinfosec@gmail.com-red?logo=gmail&logoColor=white)](mailto:atyinfosec@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@quinji-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinji/)
 [![GitHub](https://img.shields.io/badge/GitHub-atyinfosec-orange?logo=github&logoColor=white)](https://github.com/atyinfosec)
-[![X](https://img.shields.io/badge/X-atyinfosec-black?logo=x&logoColor=white)](https://x.com/atyinfosec)
+[![X](https://img.shields.io/badge/X-atyinfosec-blue?logo=x&logoColor=white)](https://x.com/atyinfosec)
 
 ## 🤝 Why Choose Me?
 - 15+ years of hands-on experience
