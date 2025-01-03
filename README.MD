@@ -41,6 +41,7 @@ With 15+ years of experience in Information Technology, I specialize in server a
 
 ## 🏆 Achievements
 - WPEngine Level 1 Support certification
+- Aviatrix ACE certified
 - Multiple security vulnerability reports leading to significant cost savings
 - Trusted security advisor for various organizations
 - Extensive academic and professional background in IT
