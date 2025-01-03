@@ -89,13 +89,12 @@ return f"Scan failed: {str(e)}"
 
 
 ## 🏆 Certifications & Achievements
-
 ### Industry Certifications
-- 🔒 Fortinet Network Security Expert (NSE)
-- 🌐 Cisco Certified
-- 📊 AWS Certified
-- ☁️ IBM Cloud Security Engineer
-- 🚀 Aviatrix ACE (Multi-Cloud Network Associate)
+- [x] 🔒 Fortinet Network Security Expert (NSE)
+- [x] 🌐 Cisco Certified
+- [x] 📊 AWS Certified
+- [x] ☁️ IBM Cloud Security Engineer
+- [x] 🚀 Aviatrix ACE (Multi-Cloud Network Associate)
 
 ### Security Accomplishments
 - 🎯 Multiple CVE Reports Published
