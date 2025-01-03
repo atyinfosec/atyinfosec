@@ -55,10 +55,17 @@ With 15+ years of experience in Information Technology, I specialize in server a
 - Custom security solutions
 
 ## 📫 Contact
-For security consultations or service inquiries:
-- Email: atyinfosec@gmail.com
-- LinkedIn: https://www.linkedin.com/in/quinji/
-- Website: https://github.com/atyinfosec
+<p align="center">
+  <a href="mailto:atyinfosec@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/quinji/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/atyinfosec">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
 
 ## 🤝 Why Choose Me?
 - 15+ years of hands-on experience
