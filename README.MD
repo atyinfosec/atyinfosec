@@ -92,7 +92,8 @@ return f"Scan failed: {str(e)}"
 
 ### Industry Certifications
 - 🔒 Fortinet Network Security Expert (NSE)
-- 🌐 Cisco Certified Network Professional (CCNP)
+- 🌐 Cisco Certified
+- 📊 AWS Certified
 - ☁️ IBM Cloud Security Engineer
 - 🚀 Aviatrix ACE (Multi-Cloud Network Associate)
 
