@@ -158,10 +158,6 @@ achievements = {
 
 ---
 
-[![Aty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atyinfosec&show_icons=true&theme=radical)](https://github.com/atyinfosec)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atyinfosec&layout=compact&theme=radical)](https://github.com/atyinfosec)
-
 <div align="center">
 
 *Available for security consultations, server administration, and development projects*
